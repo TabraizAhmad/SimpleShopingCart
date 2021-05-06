@@ -1,1 +1,1 @@
-# SimpleShopingCart
+# DemoShopingCart
